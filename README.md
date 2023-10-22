@@ -14,3 +14,6 @@ python3 main.py
 
 ```
 ## Uso
+Escribe  ```python3 main.py``` para correr la herramienta.
+
+```evillimiter``` will try to resolve required information (network interface, netmask, gateway address, ...) on its own, automatically.
