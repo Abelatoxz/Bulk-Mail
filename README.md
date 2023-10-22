@@ -2,8 +2,12 @@
 
 Herramienta para enviar gmails en masa.
 
+## Prerequisitos
+
 ## Requisitos
  - Python3 o mas nuevo
+
+
 
 ## Instalacion y Ejecucion 
 
@@ -23,3 +27,7 @@ Escribe  ```python3 main.py``` para correr la herramienta.
 | ```0``` | Cerrar aplicacion |
 | ```1 ``` | Enviar un mensaje de prueba|
 | ```2 ``` | Empezar a enviar mensajes en masa |
+
+
+
+
