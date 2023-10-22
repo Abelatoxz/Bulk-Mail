@@ -32,7 +32,7 @@ python3 main.py
 ## Uso
 Escribe  ```python3 main.py``` para correr la herramienta.
 
-#### Command-Line Arguments
+#### Opciones
 
 |Argumento | Explicacion |
 | -------- | ----------- |
