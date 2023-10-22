@@ -10,6 +10,9 @@ Activar la doble verificacion de tu Gmail
 Ir al siguiente enlace https://myaccount.google.com/apppasswords
 #### Tercer paso
 ![image](https://github.com/Abelatoxz/Bulk-Mail/assets/92982490/c64429c8-3825-455c-9e36-5278d59af9c2)
+#### Cuarto paso
+![image](https://github.com/Abelatoxz/Bulk-Mail/assets/92982490/b316e62c-6994-4a25-a0f9-76ddee7283f8)
+
 
 ## Requisitos
  - Python3 o mas nuevo
