@@ -1,6 +1,7 @@
 # Bulk-Mail
 Tool to send mass messages to the same gmail or several
-#TUTORIAL
+
+
 To use this tool you will have to follow a series of steps.
 
 First step:
