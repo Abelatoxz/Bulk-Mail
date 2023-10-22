@@ -9,9 +9,9 @@ Activar la doble verificacion de tu Gmail
 #### Segundo paso
 Ir al siguiente enlace https://myaccount.google.com/apppasswords
 #### Tercer paso
-![image](https://github.com/Abelatoxz/Bulk-Mail/assets/92982490/c64429c8-3825-455c-9e36-5278d59af9c2)
+![image](https://github.com/Abelatoxz/Bulk-Mail/assets/92982490/58c6dc00-e505-46fa-9549-86340141a0e5)
 #### Cuarto paso
-![image](https://github.com/Abelatoxz/Bulk-Mail/assets/92982490/b316e62c-6994-4a25-a0f9-76ddee7283f8)
+![image](https://github.com/Abelatoxz/Bulk-Mail/assets/92982490/72cdd869-866b-48ce-89e7-e4b97cf7aed6)
 
 
 Esta sera la contraseña de nuestra herramienta, importante pegarla sin espacios,y guardarla ya que no podras volver a acceder a ella
