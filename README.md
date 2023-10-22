@@ -4,7 +4,7 @@ Herramienta para enviar mails en masa.
 
 ## Prerequisitos - Solo si vas a usar Gmail
 Si vas a usar gmail neccesitaras hacer los siguientes pasos para que la herramienta funcione
-### Primer paso
+#### Primer paso
 
 
 ## Requisitos
