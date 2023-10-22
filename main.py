@@ -26,10 +26,9 @@ if seleccion == 0:
 
 if seleccion == 1:
     sender_email_address = str(input("Dime el correo con el cual quieres enviar el mensaje: ")) 
-    #email_password = str(input("Dame la password sin espacios: ")) 
+    email_password = str(input("Dame la password sin espacios: ")) 
     receiver_email_address = str(input("Dime a quien quieres enviar el ataque: ")) 
 
-    email_password = "hkhkkmweukxgmtkq"
     email_subject = str(input("Dame el tema del mensaje: ")) 
     mensaje = str(input("Dame el mensaje que quieres poner: "))
     email_smtp = "smtp.gmail.com" 
@@ -76,10 +75,9 @@ if seleccion == 1:
 if seleccion == 2:
 
     sender_email_address = str(input("Dime el correo con el cual quieres enviar el mensaje: ")) 
-    #email_password = str(input("Dame la password sin espacios: ")) 
+    email_password = str(input("Dame la password sin espacios: ")) 
     receiver_email_address = str(input("Dime a quien quieres enviar el atauqe: ")) 
 
-    email_password = "hkhkkmweukxgmtkq"
     email_subject = str(input("Dame el tema del mensaje: ")) 
     mensaje = str(input("Dame el mensaje que quieres poner: "))
     email_smtp = "smtp.gmail.com" 
