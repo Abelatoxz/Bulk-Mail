@@ -8,7 +8,7 @@ Si vas a usar gmail neccesitaras hacer los siguientes pasos para que la herramie
 Activar la doble verificacion de tu Gmail
 #### Segundo paso
 Ir al siguiente enlace https://myaccount.google.com/apppasswords
-
+#### Tercer paso
 
 ## Requisitos
  - Python3 o mas nuevo
