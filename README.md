@@ -2,4 +2,4 @@
 
 Herramienta para enviar gmails en masa.
 
-# Requisisots
+# Requisitos
