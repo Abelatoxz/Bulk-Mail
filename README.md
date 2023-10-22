@@ -13,3 +13,4 @@ cd Bulk-Mail
 python3 main.py
 
 ```
+## Uso
