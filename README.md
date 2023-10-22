@@ -17,3 +17,6 @@ Third step:
 Create a new "App name"
 ![image](https://github.com/Abelatoxz/Bulk-Mail/assets/92982490/dca749e4-4024-4132-b43e-37f3c99b1269)
 
+
+
+
