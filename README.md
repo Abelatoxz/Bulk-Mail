@@ -1,8 +1,11 @@
  # Bulk-Mail
 
-Herramienta para enviar gmails en masa.
+Herramienta para enviar mails en masa.
 
-## Prerequisitos
+## Prerequisitos - Solo si vas a usar Gmail
+Si vas a usar gmail neccesitaras hacer los siguientes pasos para que la herramienta funcione
+### Primer paso
+
 
 ## Requisitos
  - Python3 o mas nuevo
