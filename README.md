@@ -1,4 +1,4 @@
-# Bulk-Mail
+ # Bulk-Mail
 
 Herramienta para enviar gmails en masa.
 
@@ -8,7 +8,8 @@ Herramienta para enviar gmails en masa.
 ## Instalacion
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Abelatoxz/Bulk-Mail.git
+cd Bulk-Mail
+python3 main.py
 
 ```
