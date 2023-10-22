@@ -5,7 +5,7 @@ Herramienta para enviar gmails en masa.
 ## Requisitos
  - Python3 o mas nuevo
 
-## Instalacion
+## Instalacion y Ejecucion 
 
 ```bash
 git clone https://github.com/Abelatoxz/Bulk-Mail.git
