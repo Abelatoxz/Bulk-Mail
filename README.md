@@ -7,7 +7,7 @@ Si vas a usar gmail neccesitaras hacer los siguientes pasos para que la herramie
 #### Primer paso
 Activar la doble verificacion de tu Gmail
 #### Segundo paso
-Ir al siguiente enlace "https://myaccount.google.com/apppasswords"
+Ir al siguiente enlace https://myaccount.google.com/apppasswords
 
 
 ## Requisitos
