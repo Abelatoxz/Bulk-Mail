@@ -16,4 +16,10 @@ python3 main.py
 ## Uso
 Escribe  ```python3 main.py``` para correr la herramienta.
 
+#### Command-Line Arguments
 
+|Argumento | Explicacion |
+| -------- | ----------- |
+| ```0``` | Cerrar aplicacion |
+| ```1 ``` | Enviar un mensaje de prueba|
+| ```2 ``` | Empezar a enviar mensajes en masa |
